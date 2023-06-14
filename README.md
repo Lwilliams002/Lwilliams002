@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://lwilliams002.github.io/personalweb/"><img alt="Website" src="https://img.shields.io/badge/Website-www.LeslyWilliams.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="mailto:lesly.williams001@mymdc.net"><img alt="Email" src="https://img.shields.io/badge/Email-lesly.williams001@mymdc.net-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Lwilliams.devs@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lesly.williams001@mymdc.net-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Lwilliams002](https://github.com/Lwilliams002)
