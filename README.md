@@ -15,8 +15,9 @@ Hello! 👋 I'm a Computer Science student at FIU with a passion for AR technolo
 
 
 ### Bizness
+- 🖥️ [Personal Website](https://lwilliams002.github.io/personalweb/)
 - :paperclip: [My Resume/CV](https://raw.githubusercontent.com/Lwilliams002/personalweb/master/public/Resume%20(%202024%20).pdf)
-- :email: lwilliams.devs@gmail.com
+- Email: lwilliams.devs@gmail.com
 
 <br/>
 
